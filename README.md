@@ -30,9 +30,9 @@ We can call inventory management all the issues related to the stock or stock ma
 <h4>O --> Open/Closed Principle</h4>
 <h4>L --> Liskov Substitution Principle</h4>
 <h4>I --> Interface Segregation Principle</h4>
-<h4>D --> Dependency Inversion Principle</h4>
+<h4>D --> Dependency Inversion Principle</h4> <br>
 ---
-`DRY - Don't Repeat Yourself` <br>
-`KISS - Keep It Simple, Stupid` <br>
-`YAGNI - You Ain't Gonna Need It` <br>
+```DRY - Don't Repeat Yourself``` <br>
+```KISS - Keep It Simple, Stupid``` <br>
+```YAGNI - You Ain't Gonna Need It``` <br>
 
